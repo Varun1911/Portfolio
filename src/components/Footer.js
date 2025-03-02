@@ -10,20 +10,20 @@ export const Footer = () => {
       <Container>
         <Row className="align-item-center">
           <Col sm={6}>
-            <img src={logo} alt="" />
+            {/* <img src={logo} alt="" /> */}
           </Col>
           <Col sm={6} className="text-center text-sm-end">
             <div className="social-icon">
               <a
-                href="https://www.linkedin.com/in/yash-malhotra-405a9222a/"
+                href="https://www.linkedin.com/in/varun-taneja-1a4b5716b/"
                 target="_Blank"
               >
                 <img src={navIcon1} alt=""></img>
               </a>
-              <a href="tel:+919871998928">
+              <a href="tel:+919654167465">
                 <img src={navIcon2} alt=""></img>
               </a>
-              <a href="mailto:yashmalhotra330@gmail.com">
+              <a href="mailto:varunt298@gmail.com">
                 <img src={navIcon3} alt=""></img>
               </a>
             </div>
